@@ -1,0 +1,272 @@
+div#shane-content {
+    display: flex;
+    justify-content: center;
+    margin-top: 1vw;
+    position: relative;
+}
+div#socmed-win {
+    position: relative;
+    margin-top: -1vw;
+}
+img#socmed-win {
+    width: 60vw;
+}
+#socmed-container {
+    min-width: 56vw;
+    max-width: 56vw;
+    min-height: 28vw;
+    max-height: 28vw;
+    position: absolute;
+    overflow-y: auto;
+    overflow-x: hidden;
+    top: 4.5vw;
+    left: 1.8vw;
+    align-items: center;
+}
+div.icon {
+    flex-grow: 1;
+    position: relative;
+    display: inline-flex;
+}
+img.ena-icon {
+    max-width: 2.5vw;
+    max-height: 2.5vw;
+}
+div.user {
+    flex-grow: 9;
+    position: relative;
+    display: inline-flex;
+    font-family: dogicapixel;
+    font-size: 0.75vw;
+    line-height: 1.5;
+}
+#boo {
+    position: relative;
+    /*top: 3.5vw;*/
+    bottom: 1vw;
+    width: 8.5vw;
+    height: auto;
+    content: url(../images/windows/my\ melody\ phone.gif);
+}
+#boo:hover {
+    content: url(../images/windows/boo.gif);
+}
+
+/* SOCMED-CONTENTS */
+
+div#socmed-content1 {
+    display: flex;
+    position: absolute;
+    top: 1vw;
+    left: 3vw;
+    gap: 1vw;
+    justify-content: center;
+    max-width: 50vw;
+    max-height: 50vw;
+    opacity: 0;
+    animation: fade-in 0.1s forwards;
+    animation-delay: 1s;
+}
+div#socmed-content2 {
+    display: flex;
+    position: absolute;
+    top: 7vw;
+    left: 3vw;
+    gap: 1vw;
+    justify-content: center;
+    max-width: 50vw;
+    max-height: 50vw;
+    opacity: 0;
+    animation: fade-in 0.1s forwards;
+    animation-delay: 1.5s;
+}
+div#socmed-content3 {
+    display: flex;
+    position: absolute;
+    top: 14.3vw;
+    left: 3vw;
+    gap: 1vw;
+    justify-content: center;
+    max-width: 50vw;
+    max-height: 50vw;
+    opacity: 0;
+    animation: fade-in 0.1s forwards;
+    animation-delay: 2s;
+}
+div#socmed-content4 {
+    display: flex;
+    position: absolute;
+    top: 19.4vw;
+    left: 3vw;
+    gap: 1vw;
+    justify-content: center;
+    max-width: 50vw;
+    max-height: 50vw;
+    opacity: 0;
+    animation: fade-in 0.1s forwards;
+    animation-delay: 2.5s;
+}
+div#socmed-content5 {
+    display: flex;
+    position: absolute;
+    top: 26.3vw;
+    left: 3vw;
+    gap: 1vw;
+    justify-content: center;
+    max-width: 50vw;
+    max-height: 50vw;
+    opacity: 0;
+    animation: fade-in 0.1s forwards;
+    animation-delay: 3s;
+}
+div#socmed-content6 {
+    display: flex;
+    position: absolute;
+    top: 32.3vw;
+    left: 3vw;
+    gap: 1vw;
+    justify-content: center;
+    max-width: 50vw;
+    max-height: 50vw;
+    opacity: 0;
+    animation: fade-in 0.1s forwards;
+    animation-delay: 3.5s;
+}
+div#socmed-content7 {
+    display: flex;
+    position: absolute;
+    top: 38vw;
+    left: 3vw;
+    gap: 1vw;
+    justify-content: center;
+    max-width: 50vw;
+    max-height: 50vw;
+    opacity: 0;
+    animation: fade-in 0.1s forwards;
+    animation-delay: 4s;
+}
+div#socmed-content8 {
+    display: flex;
+    position: absolute;
+    top: 43vw;
+    left: 3vw;
+    gap: 1vw;
+    justify-content: center;
+    max-width: 50vw;
+    max-height: 50vw;
+    opacity: 0;
+    animation: fade-in 0.1s forwards;
+    animation-delay: 4.5s;
+}
+div#socmed-content9 {
+    display: flex;
+    position: absolute;
+    top: 48.8vw;
+    left: 3vw;
+    gap: 1vw;
+    justify-content: center;
+    max-width: 54vw;
+    max-height: 50vw;
+    opacity: 0;
+    animation: fade-in 0.1s forwards;
+    animation-delay: 5s;
+}
+div#socmed-content10 {
+    display: flex;
+    position: absolute;
+    top: 54.8vw;
+    left: 3vw;
+    gap: 1vw;
+    justify-content: center;
+    max-width: 54vw;
+    max-height: 50vw;
+    opacity: 0;
+    animation: fade-in 0.1s forwards;
+    animation-delay: 5.5s;
+}
+
+/* REACTIONS */
+
+#reaction1 {
+    position: absolute;
+    top: 3.9vw;
+    left: 2.8vw;
+    transform: scale(.85);
+    max-width: 9vw;
+}
+#reaction2 {
+    position: absolute;
+    top: 5.3vw;
+    left: 2.8vw;
+    transform: scale(.85);
+    max-width: 9vw;
+}
+#reaction3 {
+    position: absolute;
+    top: 3.2vw;
+    left: 2.8vw;
+    transform: scale(.85);
+    max-width: 9vw;
+}
+#reaction4 {
+    position: absolute;
+    top: 4.8vw;
+    left: 2.8vw;
+    transform: scale(.85);
+    max-width: 9vw;
+}
+#reaction5 {
+    position: absolute;
+    top: 3.9vw;
+    left: 2.8vw;
+    transform: scale(.85);
+    max-width: 9vw;
+}
+#reaction6 {
+    position: absolute;
+    top: 3.9vw;
+    left: 2.8vw;
+    transform: scale(.85);
+    max-width: 9vw;
+}
+#reaction7 {
+    position: absolute;
+    top: 3.2vw;
+    left: 2.8vw;
+    transform: scale(.85);
+    max-width: 9vw;
+}
+#reaction8 {
+    position: absolute;
+    top: 3.8vw;
+    left: 2.8vw;
+    transform: scale(.85);
+    max-width: 9vw;
+}
+#reaction9 {
+    position: absolute;
+    top: 4vw;
+    left: 2.8vw;
+    transform: scale(.85);
+    max-width: 9vw;
+}
+#reaction10 {
+    position: absolute;
+    top: 2.9vw;
+    left: 2.8vw;
+    transform: scale(.85);
+    max-width: 9vw;
+}
+
+/* SPANS */
+
+.name {
+    color: #7c7eff;
+}
+.post {
+    color: #8800ff;
+    font-size: 0.65vw;
+}
+.at {
+    color: #0004ff;
+}
