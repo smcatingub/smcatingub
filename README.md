@@ -1,48 +1,72 @@
-# Personal Website
+# Hi, I'm Shane! 👋
 
-A personal portfolio website built during my 2nd year of college using CodeIgniter 4. 
-The website showcases my profile and allows visitors to leave feedback through a guestbook feature.
+I'm a BS Information Technology graduate from Asia Pacific College with an interest in software development, automation, and building technology solutions.
+
+I enjoy creating applications that improve processes and user experiences while continuously expanding my skills through projects and hands-on experiences.
+
+🌐 **Personal Website:** https://smcatingub.wasmer.app/home
+
+---
+
+## 👩‍💻 About Me
+
+- 🎓 BS Information Technology graduate from Asia Pacific College
+- 💡 Interested in software development, automation, and AI-driven solutions
+- 🛠️ Experience with web development, database-driven applications, and Microsoft Power Platform
+- 🌱 Currently exploring opportunities where I can contribute, learn, and grow as an IT professional
+
+---
+
+# Featured Project
+
+## Personal Website
+
+A personal website developed using CodeIgniter 4 as part of my Web Programming course.
+
+This project was originally created during my 2nd year of college and was later redeployed to a cloud hosting environment to make it publicly accessible.
 
 🌐 **Live Website:** https://smcatingub.wasmer.app/home
 
-## About the Project
-
-This project was created during my 2nd year of college to practice building a dynamic website using PHP frameworks. It was originally hosted on a school server and was later redeployed using Wasmer.
-
-The website includes multiple pages with dynamic content management, a news section, and a guestbook feature where visitors can leave feedback.
-
-## Features
+### Features
 
 - Multi-page personal website
 - Dynamic pages using CodeIgniter 4 routing, controllers, and views
-- Guestbook feature where visitors can submit and view feedback
-- Server-side form validation for visitor submissions
-- MySQL database integration for storing guest feedback
+- Guestbook system where visitors can submit and view feedback
+- Server-side form validation
+- MySQL database integration
 
-## Tech Stack
+### Tech Stack
 
-**Backend**
 - PHP
 - CodeIgniter 4
-
-**Frontend**
-- HTML
-- CSS
+- MySQL
+- HTML/CSS
 - JavaScript
 
-**Database**
+---
+
+## 🛠️ Technologies & Tools
+
+### Languages
+- PHP
+- JavaScript
+- HTML/CSS
+- SQL
+
+### Frameworks & Platforms
+- CodeIgniter 4
+- Laravel
+- Livewire
+- Microsoft Power Platform
+
+### Tools
+- Git/GitHub
 - MySQL
+- Docker
 
-**Hosting**
-- Wasmer
+---
 
-## Deployment
+## 📫 Connect With Me
 
-This project is deployed using Wasmer with:
-- PHP 8.3
-- MySQL database
-- Environment-based database configuration
-
-## Author
-
-**Shannelien Mae Catingub**
+- LinkedIn: https://www.linkedin.com/in/shanneliencatingub/
+- Email: smcatingub@gmail.com
