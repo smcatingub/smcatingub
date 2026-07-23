@@ -1,11 +1,5 @@
 # Hi, I'm Shane! 👋
 
-I'm a BS Information Technology graduate from Asia Pacific College with an interest in software development, automation, and building technology solutions.
-
-I enjoy creating applications that improve processes and user experiences while continuously expanding my skills through projects and hands-on experiences.
-
----
-
 ## 👩‍💻 About Me
 
 - 🎓 BS Information Technology graduate from Asia Pacific College
